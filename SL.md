@@ -40,4 +40,4 @@
 - 刚升级武器的短时间内可以与匹配外的玩家联机。
 - 游戏中捡到的所有特殊武器和已经被进化过的武器会自动把武器匹配等级调整至+5或+10。
 
-注：原文出处自http://darksouls.wikidot.com/online-matchmaking。版权归原作者所有。
+注：原文出处自http://darksouls.wikidot.com/online-matchmaking。 版权归原作者所有。
